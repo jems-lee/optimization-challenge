@@ -129,10 +129,10 @@ dmypy.json
 .pyre/
 
 # Latex
-.aux
-.fdb_latexmk
-.fls
-.log
-.out
-.gz
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.gz
 
